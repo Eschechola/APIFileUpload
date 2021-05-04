@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FileUpload.Data\FileUpload.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\09036858771d4df8a0bbbcd216f0c65f_dorodo.png" />
+    <None Include="wwwroot\images\11bfbcc4dad94602af237733722dd154_alekjpeakyblinder.jpg" />
+    <None Include="wwwroot\images\7e80d6dd40ee4f3a8b2b5b50aaed025b_dorodo.png" />
+    <None Include="wwwroot\images\9cfc1f2fc63c47bcb056461f87432269_alekjpeakyblinder.jpg" />
+    <None Include="wwwroot\images\bf486a662a2b42a9ab7118a8f2196e9b_dorodo.png" />
+    <None Include="wwwroot\images\c69e431c1ac54b33b8d41590a1086f31_alekjpeakyblinder.jpg" />
+  </ItemGroup>
+
+</Project>
